@@ -1,0 +1,12 @@
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.csprojAssemblyReference.cache
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.AssemblyInfoInputs.cache
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.AssemblyInfo.cs
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.csproj.CoreCompileInputs.cache
+C:\Random\Covea.Rating\Covea.Rating.Domain\bin\Debug\netcoreapp3.1\Covea.Rating.Domain.deps.json
+C:\Random\Covea.Rating\Covea.Rating.Domain\bin\Debug\netcoreapp3.1\Covea.Rating.Domain.dll
+C:\Random\Covea.Rating\Covea.Rating.Domain\bin\Debug\netcoreapp3.1\Covea.Rating.Domain.pdb
+C:\Random\Covea.Rating\Covea.Rating.Domain\bin\Debug\netcoreapp3.1\Covea.Framework.dll
+C:\Random\Covea.Rating\Covea.Rating.Domain\bin\Debug\netcoreapp3.1\Covea.Framework.pdb
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.csproj.CopyComplete
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.dll
+C:\Random\Covea.Rating\Covea.Rating.Domain\obj\Debug\netcoreapp3.1\Covea.Rating.Domain.pdb

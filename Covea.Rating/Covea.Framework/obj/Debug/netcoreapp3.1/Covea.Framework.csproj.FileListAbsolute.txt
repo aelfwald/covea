@@ -1,0 +1,9 @@
+C:\Random\Covea.Rating\Covea.Framework\bin\Debug\netcoreapp3.1\Covea.Framework.deps.json
+C:\Random\Covea.Rating\Covea.Framework\bin\Debug\netcoreapp3.1\Covea.Framework.dll
+C:\Random\Covea.Rating\Covea.Framework\bin\Debug\netcoreapp3.1\Covea.Framework.pdb
+C:\Random\Covea.Rating\Covea.Framework\obj\Debug\netcoreapp3.1\Covea.Framework.AssemblyInfoInputs.cache
+C:\Random\Covea.Rating\Covea.Framework\obj\Debug\netcoreapp3.1\Covea.Framework.AssemblyInfo.cs
+C:\Random\Covea.Rating\Covea.Framework\obj\Debug\netcoreapp3.1\Covea.Framework.csproj.CoreCompileInputs.cache
+C:\Random\Covea.Rating\Covea.Framework\obj\Debug\netcoreapp3.1\Covea.Framework.dll
+C:\Random\Covea.Rating\Covea.Framework\obj\Debug\netcoreapp3.1\Covea.Framework.pdb
+C:\Random\Covea.Rating\Covea.Framework\obj\Debug\netcoreapp3.1\Covea.Framework.csprojAssemblyReference.cache

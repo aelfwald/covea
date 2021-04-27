@@ -1,0 +1,1 @@
+Applied bankers rounding to all calculated figures

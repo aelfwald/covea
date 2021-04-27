@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Covea.Rating.Application\Covea.Rating.Application.csproj" />
+    <ProjectReference Include="..\Covea.Rating.Domain\Covea.Rating.Domain.csproj" />
+    <ProjectReference Include="..\Covea.Rating.Infrastructure\Covea.Rating.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
